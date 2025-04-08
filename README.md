@@ -46,7 +46,7 @@ Você pode baixar o RARS diretamente em: [https://github.com/TheThirdOne/rars](h
 - [`exercicio6.html`](exercicio6.html)  
   Exercício 06 com laço `for`. Expressão em C:
   ```c
-  for (i = 0; i < 10; i++) j++;
+  for (i = 0; i < 3; i++) j++;
   ```
 
 ## Como usar
