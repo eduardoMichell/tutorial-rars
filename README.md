@@ -73,7 +73,7 @@ Você pode baixar o RARS diretamente em: [https://github.com/TheThirdOne/rars](h
 
 3. Siga o tutorial para entender o funcionamento do simulador.
 
-4. Acesse os exercícios pelas páginas exercicio1.html até exercicio6.html para praticar os conceitos.
+4. Acesse os exercícios pelas páginas exercicio1.html até exercicio8.html para praticar os conceitos.
 
 ## Navegação entre páginas
 
