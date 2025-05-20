@@ -51,14 +51,14 @@ Você pode baixar o RARS diretamente em: [https://github.com/TheThirdOne/rars](h
   ```
 
 - [`exercicio7.html`](exercicio7.html)  
-  Exercício 07 função (procedimento folha). Expressão em C:
+  Exercício 07 – Implementa chamada de procedimento sem uso de pilha. Expressão em C:
 
   ```c
   int f = (g + h) - (i + j);
   ```
 
 - [`exercicio8.html`](exercicio8.html)  
-  Exercício 08 função (procedimento não-folha). Expressão em C:
+  Exercício 08 – Exemplo de procedimento que utiliza pilha para salvar registradores. Expressão em C:
   ```c
   int f = (g + h) - (i + j);
   ```
